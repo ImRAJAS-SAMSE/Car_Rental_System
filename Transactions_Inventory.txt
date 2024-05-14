@@ -1,0 +1,176 @@
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 23, 2013
+Return Date: Feb 2, 2013 = Days: 0
+Full Name: Tony Strak
+Age: 38
+Location: California
+Contact: 5353533535
+Car: Van-2009
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2020 = Days: 2520
+Full Name: Testing here
+Age: 50
+Location: testing
+Contact: testing
+Car: Bus-2007
+Total Rent Price: 1764000.00 
+--------------------------------------------------
+Current Date: Mar 2, 2014
+ 
+Pick up Date: Feb 1, 2013
+Return Date: Mar 1, 2013 = Days: 30
+Full Name: Rajas samse
+Age: 34
+Location: pune
+Contact: 1234
+Car: Bus-2007
+Total Rent Price: 21000.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 6, 2013 = Days: 5
+Full Name: Rajas Samse
+Age: 43
+Location: pune
+Contact: 12234
+Car: Bus-2007
+Total Rent Price: 3500.00 
+--------------------------------------------------
+Current Date: May 4, 2024
+ 
+Pick up Date: May 16, 2024
+Return Date: Jun 1, 2024 = Days: 0
+Full Name: testing - Testing
+Age: 54
+Location: pune
+Contact: 1234
+Car: Van-2009
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Mar 14, 2024
+ 
+Pick up Date: Mar 14, 2024
+Return Date: Jun 1, 2024 = Days: 0
+Full Name: testing testing please
+Age: 54
+Location: pune
+Contact: 125333
+Car: Bus-2007
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 5, 2020
+Return Date: Feb 1, 2020 = Days: 0
+Full Name: using it 
+Age: 50
+Location: nasik
+Contact: 5467
+Car: Bus-2007
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2024
+ 
+Pick up Date: Jan 10, 2024
+Return Date: Jan 25, 2024 = Days: 15
+Full Name: hello there
+Age: 54
+Location: pune
+Contact: 34343
+Car: Bus-2007
+Total Rent Price: 10500.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: hello htere
+Age: 43
+Location: puen
+Contact: 456
+Car: Bus-2007
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: hello there testing
+Age: 43
+Location: puneee
+Contact: 4523
+Car: Bus-2007
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Type First Name Hsdfsdere Type Last Nafdasfadsfme Here
+Age: 43
+Location: Type Complete Address Hereasdfasd
+Contact: Type Contact Number Heresfasdf
+Car: Pick-up-2013
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: May 4, 2024
+ 
+Pick up Date: May 6, 2024
+Return Date: May 10, 2024 = Days: 4
+Full Name: testing again
+Age: 54
+Location: pune
+Contact: 123456
+Car: Pick-up-2013
+Total Rent Price: 1200.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Type Firsasfdt Name Here Type Lasasdfat Name Here
+Age: 43
+Location: Tyasdfafpe Complete Address Here
+Contact: Typasdfasfe Contact Number Here
+Car: Pick-up-2013
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: May 6, 2024
+ 
+Pick up Date: May 19, 2024
+Return Date: May 28, 2024 = Days: 9
+Full Name: Rajas testing program
+Age: 54
+Location: pune
+Contact: 78929218
+Car: Pick-up-2013
+Total Rent Price: 2700.00 
+--------------------------------------------------
+Current Date: May 5, 2024
+ 
+Pick up Date: May 6, 2024
+Return Date: May 10, 2024 = Days: 4
+Full Name: gj htd
+Age: 54
+Location: pune
+Contact: 566556
+Car: Pick-up-2013
+Total Rent Price: 1200.00 
+--------------------------------------------------
+Current Date: May 6, 2024
+ 
+Pick up Date: May 8, 2024
+Return Date: May 13, 2024 = Days: 5
+Full Name: Rajas Samse
+Age: 53
+Location: pune
+Contact: 1234567891
+Car: Pick-up-2013
+Total Rent Price: 1500.00 
+--------------------------------------------------
